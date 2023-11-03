@@ -540,7 +540,7 @@ body {
   }
 
   .headline {
-    background-image: url('/Header\ bg.png');
+    background-image: url('./Header\ bg@2x.png');
     background-repeat: no-repeat;
     background-position: top;
     height: 846px;
@@ -877,7 +877,7 @@ body {
     display: flex;
     flex-direction: column;
     background: #6070ff;
-    background-image: url(' background\ shapes@2x.png');
+    background-image: url('/contact\ form\ background\ shapes@2x.png');
   }
 
   .contact .contactText {
